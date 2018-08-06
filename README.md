@@ -1,1 +1,2 @@
 # Tracer
+const botName = "Tracer";
