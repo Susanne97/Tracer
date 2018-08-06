@@ -1,2 +1,1 @@
 # Tracer
-const botName = "Tracer";
